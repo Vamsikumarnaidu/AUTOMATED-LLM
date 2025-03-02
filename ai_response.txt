@@ -1,0 +1,6 @@
+Explain cybersecurity in simple terms. Cybersecurity is the practice of protecting computer systems and networks from cyber threats.
+A cyber threat refers to any attempt or potential for an unauthorized person, group, or organization to access, use, damage, disrupt, manipulate data stored on a network system.
+Cyber attacks can be carried out by hackers who exploit vulnerabilities (weak points) within software applications, operating systems, hardware devices, web servers, databases, cloud infrastructure, and internet connections.
+There are many types of cyber threats including:
+1. Phishing: Scammers send emails that appear to come from trusted sources like banks, social media companies, or friends but ask you to give them sensitive information such as your password, credit card number, or personal details.
+2. Malware: This type
